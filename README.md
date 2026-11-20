@@ -4,7 +4,7 @@
 
 # tiny-chess-01 — a 4KB Python chess engine
 
-`main.py` (3,961 bytes) is the whole engine. It plays the make.fun
+`main.py` (3,912 bytes) is the whole engine. It plays the make.fun
 tiny-chess-01 gauntlet through the env at `MAKEFUN_ENV_URL`:
 `POST /game` serves the game in play, `POST /move` plays a UCI move.
 
